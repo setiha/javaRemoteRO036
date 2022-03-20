@@ -1,4 +1,4 @@
-package ro.sda.curs9.polymorphism;
+package ro.sda.curs9FivePrinciples.polymorphism;
 
 public class Child extends Parent{
 

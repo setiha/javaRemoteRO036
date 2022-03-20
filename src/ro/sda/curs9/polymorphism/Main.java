@@ -1,4 +1,4 @@
-package ro.sda.curs9.polymorphism;
+package ro.sda.curs9FivePrinciples.polymorphism;
 
 public class Main {
     public static void main(String[] args) {
@@ -22,6 +22,9 @@ public class Main {
         Child c = new Child("Raul");
         //Nu se poate pentru ca partea stanga stie mai multe decat in dreapta
         //Child d = new Parent("Raul");
+
+        //sa identificam ce tip de data avem
+        //instance of
 
     }
 

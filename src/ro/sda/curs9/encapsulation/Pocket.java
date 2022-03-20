@@ -1,4 +1,4 @@
-package ro.sda.curs9.encapsulation;
+package ro.sda.curs9FivePrinciples.encapsulation;
 
 public class Pocket {
     private double money;

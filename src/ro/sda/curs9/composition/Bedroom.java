@@ -1,4 +1,4 @@
-package ro.sda.curs9.composition;
+package ro.sda.curs9FivePrinciples.composition;
 
 public class Bedroom {
     private TvSamsung tvSamsung;

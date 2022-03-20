@@ -1,4 +1,4 @@
-package ro.sda.curs9.inheritance;
+package ro.sda.curs9FivePrinciples.inheritance;
 
 public class Car extends Vehicle {
     boolean isManual;
