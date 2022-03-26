@@ -1,4 +1,4 @@
-package ro.sda.curs9FivePrinciples.inheritance;
+package ro.sda.curs9.inheritance;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package ro.sda.curs9FivePrinciples;
+package ro.sda.curs9;
 
 public class Git {
     //pull, rebase, branch, branch-b, push, merge

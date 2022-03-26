@@ -1,8 +1,8 @@
-package ro.sda.curs9FivePrinciples.inheritance;
+package ro.sda.curs9.inheritance;
 
 public class Vehicle {
     private int wheelsNumber;
-    private String color;
+     private  String color;
     private double maxSpeed;
 
     public Vehicle() {

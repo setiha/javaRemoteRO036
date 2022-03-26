@@ -1,9 +1,9 @@
-package ro.sda.curs9FivePrinciples.abstraction;
+package ro.sda.curs9.abstraction;
 
 public interface FisaPostului {
     //in interfata nu avem proprietati cu exceptia celor care sunt statice si final adica constante
     //in interfete nu avem constructor
-    //toate metodele din interfece sunt prin definitie abstracte - nu are implementare, nu are un block de cod
+    //toate metodele din interfete sunt prin definitie abstracte - nu are implementare, nu are un block de cod
     //toate metodele din interfata sunt publice
     //nu putem instantia direct o interfata
     //pentru instantiere folosim intefete anonime sau clase care implementeaza acele interfete

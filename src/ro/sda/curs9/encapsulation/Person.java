@@ -1,4 +1,4 @@
-package ro.sda.curs9FivePrinciples.encapsulation;
+package ro.sda.curs9.encapsulation;
 
 public class Person {
     // toate proprietatile unei clase sunt variabile GLOBALE

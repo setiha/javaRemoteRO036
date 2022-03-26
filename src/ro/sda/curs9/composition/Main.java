@@ -1,4 +1,4 @@
-package ro.sda.curs9FivePrinciples.composition;
+package ro.sda.curs9.composition;
 
 public class Main {
     public static void main(String[] args) {

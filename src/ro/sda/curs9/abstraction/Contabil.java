@@ -1,4 +1,4 @@
-package ro.sda.curs9FivePrinciples.abstraction;
+package ro.sda.curs9.abstraction;
 //in copii claselor abstracte trebuie sa suprascriem doar metodele abstracte
 //daca metodele care nu sunt abstracte nu sunt suprascrise se foloseste implementarea din parinte
 public class Contabil extends Angajat implements  FisePostExertContabil {

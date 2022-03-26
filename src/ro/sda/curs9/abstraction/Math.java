@@ -1,4 +1,4 @@
-package ro.sda.curs9FivePrinciples.abstraction;
+package ro.sda.curs9.abstraction;
 
 public class Math implements  FunctionalInterfaceExample {
     @Override

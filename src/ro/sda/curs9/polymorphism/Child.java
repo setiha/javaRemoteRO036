@@ -1,4 +1,4 @@
-package ro.sda.curs9FivePrinciples.polymorphism;
+package ro.sda.curs9.polymorphism;
 
 public class Child extends Parent{
 
@@ -13,4 +13,6 @@ public class Child extends Parent{
     public  void childMethod(){
         System.out.println("Child method");
     }
+
+
 }

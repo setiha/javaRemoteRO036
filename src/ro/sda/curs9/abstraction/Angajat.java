@@ -1,4 +1,4 @@
-package ro.sda.curs9FivePrinciples.abstraction;
+package ro.sda.curs9.abstraction;
 
 public abstract class Angajat implements FisaPostului {
     //modul de functionare al metodei este ascunse
